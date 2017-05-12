@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lista", "lista\lista.vcproj", "{0B45F9F8-390A-4E47-AA69-70430E185504}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0B45F9F8-390A-4E47-AA69-70430E185504}.Debug.ActiveCfg = Debug|Win32
+		{0B45F9F8-390A-4E47-AA69-70430E185504}.Debug.Build.0 = Debug|Win32
+		{0B45F9F8-390A-4E47-AA69-70430E185504}.Release.ActiveCfg = Release|Win32
+		{0B45F9F8-390A-4E47-AA69-70430E185504}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
